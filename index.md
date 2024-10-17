@@ -20,7 +20,7 @@ Our resources cover:
 - **Case Laws**: Important rulings that impact future legal decisions.
 - **Bar Licensing**: Information on obtaining and maintaining legal practice credentials.
 - **Court Procedures**: Guidelines on courtroom advocacy and terminology.
-- **And more!**
+- **And more...**
 
 ---
 
