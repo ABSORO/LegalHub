@@ -95,7 +95,7 @@ nav_order: 2
 
 <table>
   <tr>
-    <td><strong>P.C. 2101</strong></td>
+   <td style="background-color: #ffcc99;"><strong>P.C. 2101</strong></td>
     <td>1st Degree Murder</td>
     <td>HUT</td>
     <td>N/A</td>
@@ -108,7 +108,7 @@ nav_order: 2
   </tr>
 
   <tr>
-    <td><strong>P.C. 2102</strong></td>
+   <td style="background-color: #ffcc99;"><strong>P.C. 2102</strong></td>
     <td>Attempted 1st Degree Murder</td>
     <td>1 Year</td>
     <td>$200</td>
@@ -121,7 +121,7 @@ nav_order: 2
   </tr>
 
   <tr>
-    <td><strong>P.C. 2103</strong></td>
+    <td style="background-color: #ffcc99;"><strong>P.C. 2103</strong></td>
     <td>Vandalism of a Native Site</td>
     <td>120 Days</td>
     <td>$250</td>
@@ -134,7 +134,7 @@ nav_order: 2
   </tr>
 
   <tr>
-    <td><strong>P.C. 2104</strong></td>
+    <td style="background-color: #ffcc99;"><strong>P.C. 2104</strong></td>
     <td>Unlawful Escape</td>
     <td>1 Year</td>
     <td>$200</td>
@@ -147,7 +147,7 @@ nav_order: 2
   </tr>
 
   <tr>
-    <td><strong>P.C. 2105</strong></td>
+    <td style="background-color: #ffcc99;"><strong>P.C. 2105</strong></td>
     <td>Corruption</td>
     <td>HUT</td>
     <td>N/A</td>
@@ -160,7 +160,7 @@ nav_order: 2
   </tr>
 
   <tr>
-    <td><strong>P.C. 2106</strong></td>
+    <td style="background-color: #ffcc99;"><strong>P.C. 2106</strong></td>
     <td>Bank Robbery</td>
     <td>300 Days</td>
     <td>$125</td>
@@ -173,7 +173,7 @@ nav_order: 2
   </tr>
 
   <tr>
-    <td><strong>P.C. 2107</strong></td>
+    <td style="background-color: #ffcc99;"><strong>P.C. 2107</strong></td>
     <td>Possession of Explosive Weapons</td>
     <td>120 Days</td>
     <td>$80</td>
@@ -191,7 +191,7 @@ nav_order: 2
 
 <table>
   <tr>
-    <td><strong>P.C. 2201</strong></td>
+    <td style="background-color: #ffcc99;"><strong>P.C. 2201</strong></td>
     <td>2nd Degree Murder</td>
     <td>5 Years</td>
     <td>N/A</td>
@@ -204,7 +204,7 @@ nav_order: 2
   </tr>
 
   <tr>
-    <td><strong>P.C. 2202</strong></td>
+    <td style="background-color: #ffcc99;"><strong>P.C. 2202</strong></td>
     <td>Manslaughter</td>
     <td>1 Year</td>
     <td>$100</td>
@@ -217,7 +217,7 @@ nav_order: 2
   </tr>
 
   <tr>
-    <td><strong>P.C. 2203</strong></td>
+    <td style="background-color: #ffcc99;"><strong>P.C. 2203</strong></td>
     <td>Failure to Appear</td>
     <td>HUT</td>
     <td>N/A</td>
@@ -230,7 +230,7 @@ nav_order: 2
   </tr>
 
   <tr>
-    <td><strong>P.C. 2204</strong></td>
+    <td style="background-color: #ffcc99;"><strong>P.C. 2204</strong></td>
     <td>Unsanctioned Dueling</td>
     <td>1 Year</td>
     <td>$150</td>
@@ -243,7 +243,7 @@ nav_order: 2
   </tr>
 
   <tr>
-    <td><strong>P.C. 2205</strong></td>
+    <td style="background-color: #ffcc99;"><strong>P.C. 2205</strong></td>
     <td>Aggravated Battery</td>
     <td>180 Days</td>
     <td>$80</td>
@@ -256,7 +256,7 @@ nav_order: 2
   </tr>
 
   <tr>
-    <td><strong>P.C. 2206</strong></td>
+    <td style="background-color: #ffcc99;"><strong>P.C. 2206</strong></td>
     <td>Kidnapping or False Imprisonment</td>
     <td>120 Days</td>
     <td>$100</td>
@@ -274,7 +274,7 @@ nav_order: 2
 
 <table>
   <tr>
-    <td><strong>P.C. 2301</strong></td>
+    <td style="background-color: #ffcc99;"><strong>P.C. 2301</strong></td>
     <td>Arson</td>
     <td>300 Days</td>
     <td>$150</td>
@@ -287,7 +287,7 @@ nav_order: 2
   </tr>
 
   <tr>
-    <td><strong>P.C. 2302</strong></td>
+    <td style="background-color: #ffcc99;"><strong>P.C. 2302</strong></td>
     <td>Grand Theft</td>
     <td>60 Days</td>
     <td>$200</td>
@@ -300,7 +300,7 @@ nav_order: 2
   </tr>
 
   <tr>
-    <td><strong>P.C. 2303</strong></td>
+    <td style="background-color: #ffcc99;"><strong>P.C. 2303</strong></td>
     <td>Fraud</td>
     <td>60 Days</td>
     <td>$60</td>
@@ -313,7 +313,7 @@ nav_order: 2
   </tr>
 
   <tr>
-    <td><strong>P.C. 2304</strong></td>
+    <td style="background-color: #ffcc99;"><strong>P.C. 2304</strong></td>
     <td>Obstruction of Justice</td>
     <td>60 Days</td>
     <td>$50</td>
@@ -326,7 +326,7 @@ nav_order: 2
   </tr>
 
   <tr>
-    <td><strong>P.C. 2305</strong></td>
+    <td style="background-color: #ffcc99;"><strong>P.C. 2305</strong></td>
     <td>Business Robbery</td>
     <td>100 Days</td>
     <td>$70</td>
@@ -339,7 +339,7 @@ nav_order: 2
   </tr>
 
   <tr>
-    <td><strong>P.C. 2306</strong></td>
+    <td style="background-color: #ffcc99;"><strong>P.C. 2306</strong></td>
     <td>Perjury</td>
     <td>1 Year</td>
     <td>N/A</td>
@@ -352,7 +352,7 @@ nav_order: 2
   </tr>
 
   <tr>
-    <td><strong>P.C. 2307</strong></td>
+    <td style="background-color: #ffcc99;"><strong>P.C. 2307</strong></td>
     <td>Negligence of Duty</td>
     <td>1 Year</td>
     <td>N/A</td>
@@ -365,7 +365,7 @@ nav_order: 2
   </tr>
 
   <tr>
-    <td><strong>P.C. 2308</strong></td>
+    <td style="background-color: #ffcc99;"><strong>P.C. 2308</strong></td>
     <td>Manufacturing Illegal Goods and Weapons</td>
     <td>1 Year</td>
     <td>$250</td>
@@ -378,7 +378,7 @@ nav_order: 2
   </tr>
 
   <tr>
-    <td><strong>P.C. 2309</strong></td>
+    <td style="background-color: #ffcc99;"><strong>P.C. 2309</strong></td>
     <td>Smuggling or Distribution of Illegal Items</td>
     <td>60 Days</td>
     <td>$100</td>
@@ -391,7 +391,7 @@ nav_order: 2
   </tr>
 
   <tr>
-    <td><strong>P.C. 2310</strong></td>
+    <td style="background-color: #ffcc99;"><strong>P.C. 2310</strong></td>
     <td>Handling Stolen Goods</td>
     <td>60 Days</td>
     <td>$70</td>
@@ -404,7 +404,7 @@ nav_order: 2
   </tr>
 
   <tr>
-    <td><strong>P.C. 2311</strong></td>
+    <td style="background-color: #ffcc99;"><strong>P.C. 2311</strong></td>
     <td>Illegal Manufacturing of Marijuana (Mota)</td>
     <td>120 Days</td>
     <td>$150</td>
@@ -417,7 +417,7 @@ nav_order: 2
   </tr>
 
   <tr>
-    <td><strong>P.C. 2312</strong></td>
+    <td style="background-color: #ffcc99;"><strong>P.C. 2312</strong></td>
     <td>Robbery</td>
     <td>60 Days</td>
     <td>$50</td>
