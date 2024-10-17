@@ -37,7 +37,7 @@ nav_order: 2
   </tr>
 
   <tr>
-    <td><strong>P.C. 1102</strong></td>
+    <td style="background-color: #ffb3b3;"><strong>P.C. 1102</strong></td>
     <td>Cannibalism</td>
     <td>HUT</td>
     <td>N/A</td>
@@ -50,7 +50,7 @@ nav_order: 2
   </tr>
 
   <tr>
-    <td><strong>P.C. 1103</strong></td>
+    <td style="background-color: #ffb3b3;"><strong>P.C. 1103</strong></td>
     <td>Mayhem</td>
     <td>2-3 Years</td>
     <td>$300</td>
@@ -63,7 +63,7 @@ nav_order: 2
   </tr>
 
   <tr>
-    <td><strong>P.C. 1104</strong></td>
+    <td style="background-color: #ffb3b3;"><strong>P.C. 1104</strong></td>
     <td>Insurrection</td>
     <td>7 Years</td>
     <td>$300</td>
@@ -76,7 +76,7 @@ nav_order: 2
   </tr>
 
   <tr>
-    <td><strong>P.C. 1105</strong></td>
+    <td style="background-color: #ffb3b3;"><strong>P.C. 1105</strong></td>
     <td>Torture</td>
     <td>3 Years</td>
     <td>N/A</td>
