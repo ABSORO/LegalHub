@@ -37,4 +37,3 @@ Join our community on [Discord](https://discord.com/invite/Sc3Ur4Uxpp) for updat
 
 ---
 
-<script src="{{ '/assets/js/custom-search.js' | relative_url }}"></script>
