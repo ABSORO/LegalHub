@@ -6,7 +6,7 @@ layout: home
 
 ---
 <div style="text-align: center;">
-  <h1>Monroe Department of Justice</h1>
+  <h1><strong>Monroe Department of Justice</strong></h1>
   <p>Unofficial Community Legal Resource</p>
 </div>
 ---
