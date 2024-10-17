@@ -14,3 +14,13 @@ aux_links:
 custom_css:
  - /assets/css/custom.css
 
+search_enabled:true
+
+search:
+ heading_level:3
+ previews: 5
+ preview_word_before: 5
+ tokenizer_separator: /[\s/]+/
+ rel_url: true
+ button: true
+  focus_shortcut_key: 'k' 
