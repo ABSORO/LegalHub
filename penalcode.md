@@ -437,7 +437,7 @@ nav_order: 2
 
 <table>
   <tr>
-    <td><strong>P.C. 3101</strong></td>
+    <td style="background-color: #ffe0b3;"><strong>P.C. 3101</strong></td>
     <td>Battery</td>
     <td>30 Days</td>
     <td>$20</td>
@@ -450,7 +450,7 @@ nav_order: 2
   </tr>
 
   <tr>
-    <td><strong>P.C. 3102</strong></td>
+    <td style="background-color: #ffe0b3;"><strong>P.C. 3102</strong></td>
     <td>Criminal Threats</td>
     <td>20 Days</td>
     <td>$10</td>
@@ -463,7 +463,7 @@ nav_order: 2
   </tr>
 
   <tr>
-    <td><strong>P.C. 3103</strong></td>
+    <td style="background-color: #ffe0b3;"><strong>P.C. 3103</strong></td>
     <td>False Impersonation</td>
     <td>60 Days</td>
     <td>$50</td>
@@ -476,7 +476,7 @@ nav_order: 2
   </tr>
 
   <tr>
-    <td><strong>P.C. 3104</strong></td>
+    <td style="background-color: #ffe0b3;"><strong>P.C. 3104</strong></td>
     <td>False Report of a Crime</td>
     <td>120 Days</td>
     <td>$80</td>
@@ -489,7 +489,7 @@ nav_order: 2
   </tr>
 
   <tr>
-    <td><strong>P.C. 3105</strong></td>
+    <td style="background-color: #ffe0b3;"><strong>P.C. 3105</strong></td>
     <td>Evading a Law Enforcement Officer</td>
     <td>30 Days</td>
     <td>$40</td>
@@ -502,7 +502,7 @@ nav_order: 2
   </tr>
 
   <tr>
-    <td><strong>P.C. 3106</strong></td>
+    <td style="background-color: #ffe0b3;"><strong>P.C. 3106</strong></td>
     <td>Forgery</td>
     <td>60 Days</td>
     <td>$100</td>
@@ -515,7 +515,7 @@ nav_order: 2
   </tr>
 
   <tr>
-    <td><strong>P.C. 3107</strong></td>
+    <td style="background-color: #ffe0b3;"><strong>P.C. 3107</strong></td>
     <td>Predatory Lending</td>
     <td>60 Days</td>
     <td>$150</td>
@@ -528,7 +528,7 @@ nav_order: 2
   </tr>
 
   <tr>
-    <td><strong>P.C. 3108</strong></td>
+    <td style="background-color: #ffe0b3;"><strong>P.C. 3108</strong></td>
     <td>Bribery</td>
     <td>60 Days</td>
     <td>$60</td>
@@ -541,7 +541,7 @@ nav_order: 2
   </tr>
 
   <tr>
-    <td><strong>P.C. 3109</strong></td>
+    <td style="background-color: #ffe0b3;"><strong>P.C. 3109</strong></td>
     <td>Blackmail</td>
     <td>120 Days</td>
     <td>$80</td>
@@ -554,7 +554,7 @@ nav_order: 2
   </tr>
 
   <tr>
-    <td><strong>P.C. 3110</strong></td>
+    <td style="background-color: #ffe0b3;"><strong>P.C. 3110</strong></td>
     <td>Resisting Arrest</td>
     <td>40 Days</td>
     <td>$40</td>
@@ -567,7 +567,7 @@ nav_order: 2
   </tr>
 
   <tr>
-    <td><strong>P.C. 3111</strong></td>
+    <td style="background-color: #ffe0b3;"><strong>P.C. 3111</strong></td>
     <td>Contempt of Court</td>
     <td>HUT</td>
     <td>N/A</td>
@@ -584,7 +584,7 @@ nav_order: 2
 
 <table>
   <tr>
-    <td><strong>P.C. 3201</strong></td>
+    <td style="background-color: #ffe0b3;"><strong>P.C. 3201</strong></td>
     <td>Possession of Illegal Contraband/Weapons</td>
     <td>30 Days</td>
     <td>$30</td>
@@ -597,7 +597,7 @@ nav_order: 2
   </tr>
 
   <tr>
-    <td><strong>P.C. 3202</strong></td>
+    <td style="background-color: #ffe0b3;"><strong>P.C. 3202</strong></td>
     <td>Destruction of Stabled Property</td>
     <td>30 Days</td>
     <td>$30</td>
@@ -610,7 +610,7 @@ nav_order: 2
   </tr>
 
   <tr>
-    <td><strong>P.C. 3203</strong></td>
+    <td style="background-color: #ffe0b3;"><strong>P.C. 3203</strong></td>
     <td>Destruction of Livestock</td>
     <td>120 Days</td>
     <td>$100</td>
@@ -623,7 +623,7 @@ nav_order: 2
   </tr>
 
   <tr>
-    <td><strong>P.C. 3204</strong></td>
+    <td style="background-color: #ffe0b3;"><strong>P.C. 3204</strong></td>
     <td>Graveyard Vandalism, Disinterment, or Desecration of a Body</td>
     <td>30 Days</td>
     <td>$40</td>
@@ -636,7 +636,7 @@ nav_order: 2
   </tr>
 
   <tr>
-    <td><strong>P.C. 3205</strong></td>
+    <td style="background-color: #ffe0b3;"><strong>P.C. 3205</strong></td>
     <td>Failure to Obey a Lawful Order</td>
     <td>30 Days</td>
     <td>$0</td>
@@ -649,7 +649,7 @@ nav_order: 2
   </tr>
 
   <tr>
-    <td><strong>P.C. 3206</strong></td>
+    <td style="background-color: #ffe0b3;"><strong>P.C. 3206</strong></td>
     <td>Vigilantism</td>
     <td>60 Days</td>
     <td>$0</td>
@@ -662,7 +662,7 @@ nav_order: 2
   </tr>
 
   <tr>
-    <td><strong>P.C. 3207</strong></td>
+    <td style="background-color: #ffe0b3;"><strong>P.C. 3207</strong></td>
     <td>Petty Theft</td>
     <td>30 Days</td>
     <td>$20</td>
@@ -675,7 +675,7 @@ nav_order: 2
   </tr>
 
   <tr>
-    <td><strong>P.C. 3208</strong></td>
+    <td style="background-color: #ffe0b3;"><strong>P.C. 3208</strong></td>
     <td>Horse Theft</td>
     <td>50 Days</td>
     <td>$25</td>
@@ -693,7 +693,7 @@ nav_order: 2
 
 <table>
   <tr>
-    <td><strong>P.C. 3301</strong></td>
+    <td style="background-color: #ffe0b3;"><strong>P.C. 3301</strong></td>
     <td>Failure to Pay a Fine</td>
     <td>N/A</td>
     <td>N/A</td>
@@ -706,7 +706,7 @@ nav_order: 2
   </tr>
 
   <tr>
-    <td><strong>P.C. 3302</strong></td>
+    <td style="background-color: #ffe0b3;"><strong>P.C. 3302</strong></td>
     <td>Failure to Identify</td>
     <td>0 Days</td>
     <td>$20</td>
@@ -719,7 +719,7 @@ nav_order: 2
   </tr>
 
   <tr>
-    <td><strong>P.C. 3303</strong></td>
+    <td style="background-color: #ffe0b3;"><strong>P.C. 3303</strong></td>
     <td>Disturbing the Peace</td>
     <td>30 Days</td>
     <td>$10</td>
@@ -732,7 +732,7 @@ nav_order: 2
   </tr>
 
   <tr>
-    <td><strong>P.C. 3304</strong></td>
+    <td style="background-color: #ffe0b3;"><strong>P.C. 3304</strong></td>
     <td>Vandalism</td>
     <td>30 Days</td>
     <td>$30</td>
@@ -745,7 +745,7 @@ nav_order: 2
   </tr>
 
   <tr>
-    <td><strong>P.C. 3305</strong></td>
+    <td style="background-color: #ffe0b3;"><strong>P.C. 3305</strong></td>
     <td>Poaching</td>
     <td>30 Days</td>
     <td>$20</td>
@@ -758,7 +758,7 @@ nav_order: 2
   </tr>
 
   <tr>
-    <td><strong>P.C. 3306</strong></td>
+    <td style="background-color: #ffe0b3;"><strong>P.C. 3306</strong></td>
     <td>Trespassing</td>
     <td>20 Days</td>
     <td>$20</td>
@@ -778,7 +778,7 @@ nav_order: 2
 
 <table>
   <tr>
-    <td><strong>P.C. 4101</strong></td>
+    <td style="background-color: #ffffb3;"><strong>P.C. 4101</strong></td>
     <td>Excessive Speeds</td>
     <td>N/A</td>
     <td>$10</td>
@@ -791,7 +791,7 @@ nav_order: 2
   </tr>
 
   <tr>
-    <td><strong>P.C. 4102</strong></td>
+    <td style="background-color: #ffffb3;"><strong>P.C. 4102</strong></td>
     <td>Brandishing a Weapon</td>
     <td>N/A</td>
     <td>$10</td>
@@ -804,7 +804,7 @@ nav_order: 2
   </tr>
 
   <tr>
-    <td><strong>P.C. 4103</strong></td>
+    <td style="background-color: #ffffb3;"><strong>P.C. 4103</strong></td>
     <td>Covering the Face</td>
     <td>N/A</td>
     <td>$10</td>
@@ -823,7 +823,7 @@ nav_order: 2
 
 <table>
   <tr>
-    <td><strong>P.C. 5101</strong></td>
+    <td style="background-color: #b3d9ff;"><strong>P.C. 5101</strong></td>
     <td>Aiding and Abetting</td>
     <td>50% of time</td>
     <td>N/A</td>
@@ -836,7 +836,7 @@ nav_order: 2
   </tr>
 
   <tr>
-    <td><strong>P.C. 5102</strong></td>
+    <td style="background-color: #b3d9ff;"><strong>P.C. 5102</strong></td>
     <td>Public Servants Enhancement</td>
     <td>60 Days</td>
     <td>N/A</td>
@@ -849,7 +849,7 @@ nav_order: 2
   </tr>
 
   <tr>
-    <td><strong>P.C. 5103</strong></td>
+    <td style="background-color: #b3d9ff;"><strong>P.C. 5103</strong></td>
     <td>Threat to Society</td>
     <td>3 Years</td>
     <td>N/A</td>
@@ -862,7 +862,7 @@ nav_order: 2
   </tr>
 
   <tr>
-    <td><strong>P.C. 5104</strong></td>
+    <td style="background-color: #b3d9ff;"><strong>P.C. 5104</strong></td>
     <td>Habitual Offender</td>
     <td>100 Days</td>
     <td>N/A</td>
@@ -875,7 +875,7 @@ nav_order: 2
   </tr>
 
   <tr>
-    <td><strong>P.C. 5105</strong></td>
+    <td style="background-color: #b3d9ff;"><strong>P.C. 5105</strong></td>
     <td>Public Nuisance Offender</td>
     <td>60 Days</td>
     <td>N/A</td>
