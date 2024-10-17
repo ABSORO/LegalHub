@@ -1,6 +1,6 @@
 ---
 title: "Penal Code"
-layout: penalcode
+layout: home
 ---
 
 # **Monroe Penal Code - Notes**
