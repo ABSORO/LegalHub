@@ -24,3 +24,7 @@ search:
   button: true
   focus_shortcut_key: 'k'
 
+# Add custom JavaScript to the site
+assets:
+  scripts:
+    - /assets/js/custom-search.js
