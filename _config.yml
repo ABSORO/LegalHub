@@ -22,6 +22,4 @@ search:
   preview_words_after: 5
   tokenizer_separator: /[\s/]+/
   rel_url: true
-  button: true
-  focus_shortcut_key: 'k'
-
+  button: false
