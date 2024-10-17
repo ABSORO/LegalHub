@@ -25,7 +25,7 @@ nav_order: 2
 <table>
   <tr>
     <td style="background-color: #ffb3b3;"><strong>P.C. 1101</strong></td>
-    <td style="background-color: #ffb3b3;">Capital Murder</td>
+    <td>Capital Murder</td>
     <td>HUT</td>
     <td>N/A</td>
   </tr>
