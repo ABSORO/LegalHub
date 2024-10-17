@@ -9,5 +9,5 @@ aux_links:
   Community Discord: https://discord.com/invite/Sc3Ur4Uxpp
 
 # Custom CSS
-custom_css:
- - /assets/css/custom.css
+#custom_css:
+# - /assets/css/custom.css
