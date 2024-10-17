@@ -2,23 +2,25 @@ title: Ranch LegalHub
 description: A resource hub for all things legal on Ranch
 theme: just-the-docs
 
+# Correcting the URL to use a single entry
 url: https://ABSORO.github.io/LegalHub
-
 
 aux_links:
   Community Discord: https://discord.com/invite/Sc3Ur4Uxpp
 
 # Custom CSS
 custom_css:
- - /assets/css/custom.css
+  - /assets/css/custom.css
 
-search_enabled:true
+# Enable search with correct spacing
+search_enabled: true
 
 search:
- heading_level:3
- previews: 5
- preview_word_before: 5
- tokenizer_separator: /[\s/]+/
- rel_url: true
- button: true
-  focus_shortcut_key: 'k' 
+  heading_level: 3
+  previews: 5
+  preview_word_before: 5
+  tokenizer_separator: /[\s/]+/
+  rel_url: true
+  button: true
+  focus_shortcut_key: 'k'
+
