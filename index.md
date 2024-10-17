@@ -36,3 +36,5 @@ The primary purpose of this website is to provide **one centralized location** f
 Join our community on [Discord](https://discord.com/invite/Sc3Ur4Uxpp) for updates, discussions, and additional resources related to Ranch Roleplay legal matters.
 
 ---
+
+<script src="{{ '/assets/js/custom-search.js' | relative_url }}"></script>
