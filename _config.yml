@@ -16,15 +16,12 @@ custom_css:
 search_enabled: true
 
 search:
-  heading_level: 3
+  heading_level: 6
   previews: 5
   preview_word_before: 5
+  preview_words_after: 5
   tokenizer_separator: /[\s/]+/
   rel_url: true
   button: true
   focus_shortcut_key: 'k'
 
-# Add custom JavaScript to the site
-assets:
-  scripts:
-    - /assets/js/custom-search.js
