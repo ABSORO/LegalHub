@@ -1,0 +1,39 @@
+/* Table Styling */
+table {
+  width: 100%;
+  border-collapse: collapse; /* Ensures borders don't have extra space between them */
+  margin-bottom: 20px; /* Adds some space below the table */
+}
+
+/* Header styling */
+th {
+  background-color: #f2f2f2; /* Light background for headers */
+  color: #333; /* Text color */
+  padding: 12px; /* Adds padding for more space */
+  text-align: left;
+  border-bottom: 2px solid #ddd; /* Adds border below headers */
+}
+
+/* Data cell styling */
+td {
+  padding: 10px;
+  text-align: left;
+  border-bottom: 1px solid #ddd; /* Adds light border between rows */
+  word-wrap: break-word; /* Ensures text wraps within the cell */
+  vertical-align: top; /* Ensures content aligns at the top of the cell */
+}
+
+/* Add even row background for easier readability */
+tr:nth-child(even) {
+  background-color: #f9f9f9;
+}
+
+/* Hover effect for rows */
+tr:hover {
+  background-color: #f1f1f1;
+}
+
+/* Test for background color 
+body {
+  background-color: yellow;
+}*/
