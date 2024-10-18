@@ -16,12 +16,11 @@ custom_css:
 
 # Enable search with correct spacing
 search_enabled: true
-
 search:
-  heading_level: 6
-  previews: 5
-  preview_word_before: 5
-  preview_words_after: 5
+  heading_level: 2
+  previews: 3
+  preview_words_before: 5
+  preview_words_after: 10
   tokenizer_separator: /[\s/]+/
   rel_url: true
   button: false
