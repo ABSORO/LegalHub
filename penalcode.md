@@ -6,7 +6,7 @@ nav_order: 2
 
 ---
 <div style="text-align: center;">
-  <h1><strong>MonroePenal Code</strong></h1>
+  <h1><strong>Monroe Penal Code</strong></h1>
   <p>Notes</p>
 </div>
 ---
