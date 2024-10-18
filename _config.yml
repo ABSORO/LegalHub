@@ -16,6 +16,7 @@ custom_css:
 # Enable search with correct spacing
 search_enabled: true
 
+search:
   heading_level: 6
   previews: 5
   preview_word_before: 5
