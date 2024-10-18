@@ -1,6 +1,7 @@
 title: Ranch LegalHub
 description: A resource hub for all things legal on Ranch
 theme: just-the-docs
+color_scheme: dark
 
 # Correcting the URL to use a single entry
 url: https://ABSORO.github.io/LegalHub
