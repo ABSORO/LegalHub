@@ -9,10 +9,6 @@ url: https://ABSORO.github.io/LegalHub
 aux_links:
   Community Discord: https://discord.com/invite/Sc3Ur4Uxpp
 
-# Custom CSS
-custom_css:
-  - /assets/css/custom.css
-
 # Enable search with correct spacing
 search_enabled: true
 search:
