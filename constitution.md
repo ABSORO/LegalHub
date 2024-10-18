@@ -95,7 +95,7 @@ nav_order: 2
 </div>
 
 ---
-
+<div style="text-align: center;">
 <h3>SECTION I - On Government</h3>
 <p>The powers of the government of this state shall be divided into three distinct branches: The legislative, executive, and judicial, and no person or collection of persons charged with the exercise of powers belonging to one of these branches shall exercise any powers belonging to either of the others, except as in this constitution expressly directed or permitted.</p>
 <hr style="width: 20%; height: 1px; background-color: white; border: none; margin: 0 auto;">
@@ -146,9 +146,12 @@ nav_order: 2
 
 <h3>SECTION XIII - County and State Boundaries</h3>
 <p>The State of Monroe shall be divided up into three counties and one territory being the County of Lemoyne, the County of New Hannover, the County of West-Elizabeth, and the New Austin territory, their boundaries being outlined by the map provided.</p>
-
+</div>
 ---
 
-<h2>CHAPTER III: “Amendments to the Constitution.”</h2>
+<div style="text-align: center;">
+  <h3><strong>CHAPTER III:</strong></h3>
+  <p>“Amendments to the Constitution.”</p>
+</div>
 
 ---
