@@ -22,16 +22,20 @@ nav_order: 2
 <div style="text-align: center;">
 <h3>ARTICLE I - Acknowledgment of Federal Supremacy</h3>
 <p>The State of Monroe shall be an inseparable part of the federal union, and the constitution of the United States is the supreme law of the land.</p>
---
+<hr style="width: 50%; border: 1px solid #000;">
+
 <h3>ARTICLE II - Equality For All</h3>
 <p>In their inherent right to life, liberty, and the pursuit of happiness, all members of the human race are equal, be they permanent or temporary residents of this State.</p>
---
+<hr style="width: 50%; border: 1px solid #000;">
+
 <h3>ARTICLE III - Freedom of Speech</h3>
 <p>Every person may freely speak, write, and publish on all subjects, being responsible for the abuse of that right; and in all trials for libel, both civil and criminal, the truth, when published with good intent and justifiable ends, shall be a sufficient defense, the judiciary having the right to determine the facts and the law, under the direction of the court.</p>
---
+<hr style="width: 50%; border: 1px solid #000;">
+
 <h3>ARTICLE IV - Security Against Search and Seizure</h3>
 <p>The right of the people to be secure in their persons, houses, and effects against unreasonable searches and seizures shall not be violated, and no warrant shall be issued but upon probable cause, supported by affidavit, particularly describing the place to be searched or the person or thing to be seized.</p>
---
+<hr style="width: 50%; border: 1px solid #000;">
+
 <h3>ARTICLE V - Peaceful Assembly</h3>
 <p>The right of petition, and of the people peaceably to assemble to consult for the common good, and to make known their opinions, shall never be denied or abridged.</p>
 
