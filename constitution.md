@@ -19,7 +19,7 @@ nav_order: 2
   <p>“A Declaration of the Rights of the Inhabitants of the State of Monroe.”</p>
 </div>
 ---
-
+<div style="text-align: center;">
 <h3>ARTICLE I - Acknowledgment of Federal Supremacy</h3>
 <p>The State of Monroe shall be an inseparable part of the federal union, and the constitution of the United States is the supreme law of the land.</p>
 
@@ -67,7 +67,7 @@ nav_order: 2
 
 <h3>ARTICLE XVI - Rights of the Criminally Accused</h3>
 <p>All accused persons shall have the right to defend in person and by counsel, to demand the nature and cause of the accusation, to have a copy thereof, to be confronted with the witnesses against them, to a speedy and impartial trial, and to have a process by which they may attain evidences in their favor, the judiciary having the right to determine the facts and the law. All convicted persons shall retain the right to appeal.</p>
-
+</div>
 ---
 
 <h2>CHAPTER II: “A Plan for the Organization and Boundary of Government.”</h2>
