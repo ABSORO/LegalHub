@@ -147,6 +147,10 @@ nav_order: 2
 
 <h3>SECTION XIII - County and State Boundaries</h3>
 <p>The State of Monroe shall be divided up into three counties and one territory being the County of Lemoyne, the County of New Hannover, the County of West-Elizabeth, and the New Austin territory, their boundaries being outlined by the map provided.</p>
+<div style="text-align: center;">
+  <a href="/assets/images/monroeterritory.png" target="_blank">
+    <img src="/assets/images/territorythumbnail.png" alt="State of Monroe Map" style="width: 300px; cursor: pointer;" title="Click to enlarge map">
+  </a>
 </div>
 ---
 
