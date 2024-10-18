@@ -8,7 +8,7 @@ nav_order: 1
 ---
 <div style="text-align: center;">
   <h1><strong>Monroe Department of Justice</strong></h1>
-  <p>Unofficial Community Legal Resource</p>
+  <p>An Unofficial Community Legal Resource Hub</p>
 </div>
 ---
 
