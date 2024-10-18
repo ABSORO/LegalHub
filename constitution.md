@@ -25,7 +25,7 @@ nav_order: 2
 <div style="text-align: center;">
 <h3>ARTICLE I - Acknowledgment of Federal Supremacy</h3>
 <p>The State of Monroe shall be an inseparable part of the federal union, and the constitution of the United States is the supreme law of the land.</p>
-<hr style="width: 50%; height: 1px; background-color: white; border: none; margin: 0 auto;">
+<hr style="width: 30%; height: 1px; background-color: white; border: none; margin: 0 auto;">
 
 <h3>ARTICLE II - Equality For All</h3>
 <p>In their inherent right to life, liberty, and the pursuit of happiness, all members of the human race are equal, be they permanent or temporary residents of this State.</p>
