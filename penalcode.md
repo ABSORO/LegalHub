@@ -4,7 +4,12 @@ layout: home
 nav_order: 2
 ---
 
-# **Monroe Penal Code - Notes**
+---
+<div style="text-align: center;">
+  <h1><strong>MonroePenal Code</strong></h1>
+  <p>Notes</p>
+</div>
+---
 
 - **HUT** = Hold Until Trial, this means that a Judge shall sentence or give them a trial depending on the individual's entered plea.
 - If a trial is required, open an LFM ticket.
