@@ -152,6 +152,7 @@ nav_order: 2
     <img src="/assets/images/territorythumbnail.png" alt="State of Monroe Map" style="width: 300px; cursor: pointer;" title="Click to enlarge map">
   </a>
 </div>
+
 ---
 
 <div style="text-align: center;">
