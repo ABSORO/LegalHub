@@ -8,7 +8,7 @@ nav_order: 2
 
 ---
 <div style="text-align: center;">
-  <h1><strong>PREAMBLE</strong></h1>
+  <h3><strong>PREAMBLE</strong></h3>
 </div>
 <p>We, the people of the State of Monroe, grateful for our inalienable rights, civil, political, and religious liberties, and desiring to secure them to ourselves and perpetuate them to our posterity, do ordain and establish this Constitution.</p>
 
@@ -16,7 +16,7 @@ nav_order: 2
 
 ---
 <div style="text-align: center;">
-  <h1><strong>CHAPTER I:</strong></h1>
+  <h3><strong>CHAPTER I:</strong></h3>
   <p>“A Declaration of the Rights of the Inhabitants of the State of Monroe.”</p>
 </div>
 ---
