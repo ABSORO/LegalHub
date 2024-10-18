@@ -37,7 +37,7 @@ nav_order: 2
   </tr>
 
   <tr>
-    <td style="background-color: #ffb3b3;"><strong>P.C. 1102</strong></td>
+    <td style="background-color: #ffb3b3; color: #a1a1a1;"><strong>P.C. 1102</strong></td>
     <td>Cannibalism</td>
     <td>HUT</td>
     <td>N/A</td>
