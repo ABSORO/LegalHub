@@ -146,7 +146,7 @@ nav_order: 2
 <hr style="width: 20%; height: 1px; background-color: white; border: none; margin: 0 auto;">
 
 <h3>SECTION XIII - County and State Boundaries</h3>
-<p>The State of Monroe shall be divided up into three counties and one territory being the County of Lemoyne, the County of New Hannover, the County of West-Elizabeth, and the New Austin territory, their boundaries being outlined by the map provided.</p>
+<p>The State of Monroe shall be divided into three counties and two territories, namely the County of Lemoyne, the County of New Hannover, the County of West Elizabeth, the New Austin Territory, and the Guarma Territory. The boundaries of these administrative divisions are clearly delineated in the map provided herein. These counties and territories collectively constitute the geographical and political structure of the State of Monroe, as established by this constitution.</p>
 <!-- Image -->
 <div class="image-container">
   <img src="{{ '/assets/images/monroeterritory.png' | relative_url }}" alt="State of Monroe Map" class="expandable-image" title="Click to enlarge map">
