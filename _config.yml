@@ -24,4 +24,3 @@ search:
   tokenizer_separator: /[\s/]+/
   rel_url: true
   button: false
-  search.rel_url: false
