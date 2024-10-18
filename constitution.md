@@ -89,7 +89,10 @@ nav_order: 2
 
 ---
 
-<h2>CHAPTER II: “A Plan for the Organization and Boundary of Government.”</h2>
+<div style="text-align: center;">
+  <h3><strong>CHAPTER II:</strong></h3>
+  <p>“A Plan for the Organization and Boundary of Government.”</p>
+</div>
 
 ---
 
