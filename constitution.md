@@ -95,6 +95,7 @@ nav_order: 2
 </div>
 
 ---
+
 <div style="text-align: center;">
 <h3>SECTION I - On Government</h3>
 <p>The powers of the government of this state shall be divided into three distinct branches: The legislative, executive, and judicial, and no person or collection of persons charged with the exercise of powers belonging to one of these branches shall exercise any powers belonging to either of the others, except as in this constitution expressly directed or permitted.</p>
@@ -153,5 +154,3 @@ nav_order: 2
   <h3><strong>CHAPTER III:</strong></h3>
   <p>“Amendments to the Constitution.”</p>
 </div>
-
----
