@@ -147,11 +147,64 @@ nav_order: 2
 
 <h3>SECTION XIII - County and State Boundaries</h3>
 <p>The State of Monroe shall be divided up into three counties and one territory being the County of Lemoyne, the County of New Hannover, the County of West-Elizabeth, and the New Austin territory, their boundaries being outlined by the map provided.</p>
-<div style="text-align: center;">
-  <a href="{{ '/assets/images/monroeterritory.png' | relative_url }}" target="_blank">
-    <img src="{{ '/assets/images/territorythumbnail.png' | relative_url }}" alt="State of Monroe Map" style="width: 300px; cursor: pointer;" title="Click to enlarge map">
-  </a>
+<!-- Image -->
+<div class="image-container">
+  <img src="{{ '/assets/images/monroeterritory.png' | relative_url }}" alt="State of Monroe Map" class="expandable-image" title="Click to enlarge map">
 </div>
+
+<div class="overlay" id="imageOverlay">
+  <img src="{{ '/assets/images/monroeterritory.png' | relative_url }}" alt="State of Monroe Map" class="expanded-image" id="expandedImage">
+</div>
+
+<style>
+.image-container {
+  text-align: center;
+}
+
+.expandable-image {
+  width: 300px;
+  cursor: pointer;
+}
+
+.overlay {
+  display: none;
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background-color: rgba(0, 0, 0, 0.9);
+  z-index: 1000;
+}
+
+.expanded-image {
+  max-width: 90%;
+  max-height: 90%;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
+</style>
+
+<script>
+document.addEventListener('DOMContentLoaded', function() {
+  var expandableImage = document.querySelector('.expandable-image');
+  var overlay = document.getElementById('imageOverlay');
+  var expandedImage = document.getElementById('expandedImage');
+
+  expandableImage.addEventListener('click', function() {
+    overlay.style.display = 'block';
+  });
+
+  overlay.addEventListener('click', function(e) {
+    if (e.target === overlay) {
+      overlay.style.display = 'none';
+    }
+  });
+});
+</script>
+<!-- Image -->
 
 ---
 
