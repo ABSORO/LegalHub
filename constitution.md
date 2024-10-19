@@ -1,5 +1,5 @@
 ---
-title: "Monroe Constitution"
+title: "Constitution"
 layout: home
 nav_order: 2
 ---
@@ -122,7 +122,24 @@ nav_order: 2
 <hr style="width: 20%; height: 1px; background-color: white; border: none; margin: 0 auto;">
 
 <h3>SECTION VII - Judicial Branch</h3>
-<p>The Judicial power of the State shall be vested in a Supreme Court that shall have jurisdiction in all matters civil and criminal. Its judges shall have the power to issue warrants, writs, and other orders of the Court necessary to uphold common law. From within the judiciary a Chief Justice shall be appointed who shall oversee staffing of the Courts and operations of its officers. Members of the judiciary shall be free from impeachment and may be appointed for lifetime terms in order to protect them from political influences.</p>
+<p>The judicial power of the State of Monroe shall be vested in the General Court of Monroe, which shall be the highest legal authority within the state, presiding over all matters civil and criminal.</p>
+<ol>
+  <li><strong>Structure:</strong> The General Court of Monroe shall consist of appointed judges who shall serve until such time as they see fit to retire or are removed through proper judicial process.</li>
+  <li><strong>Jurisdiction:</strong> The General Court shall have jurisdiction over all regions within the State of Monroe, including the territories of Guarma and New Austin.</li>
+  <li><strong>Powers:</strong> Judges of the General Court shall have the authority to:
+    <ol type="a">
+      <li>Preside over trials and issue rulings</li>
+      <li>Determine sentences in accordance with the State of Monroe Penal Code</li>
+      <li>Issue warrants, writs, and other orders necessary to uphold the law</li>
+      <li>Exceed standard penalties outlined in the Penal Code when deemed appropriate</li>
+      <li>Review and overturn decisions made in prior trials on appeal</li>
+    </ol>
+  </li>
+  <li><strong>Judicial Independence:</strong> To protect the judiciary from political influences, judges shall be free from impeachment and may be appointed for lifetime terms.</li>
+  <li><strong>Chief Justice:</strong> From within the judiciary, a Chief Justice shall be appointed to oversee the staffing of the Courts and operations of its officers.</li>
+  <li><strong>Appeals:</strong> The General Court shall establish a Judicial Review Board to hear appeals, ensuring fairness and balance in the judicial process.</li>
+</ol>
+<p>This structure ensures the separation of powers and maintains the integrity of the judicial system within the State of Monroe.</p>
 <hr style="width: 20%; height: 1px; background-color: white; border: none; margin: 0 auto;">
 
 <h3>SECTION VIII - The Attorney General</h3>
