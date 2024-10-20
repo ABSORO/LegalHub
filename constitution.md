@@ -11,13 +11,13 @@ nav_order: 2
 <div style="text-align: center;">
   <h3><strong>PREAMBLE</strong></h3>
 </div>
-<p>We, the people of the State of Monroe, grateful for our inalienable rights, civil, political, and religious liberties, and desiring to secure them to ourselves and perpetuate them to our posterity, do ordain and establish this Constitution.</p>
+<p style="text-align: center;">We, the people of the State of Monroe, grateful for our inalienable rights, civil, political, and religious liberties, and desiring to secure them to ourselves and perpetuate them to our posterity, do ordain and establish this Constitution.</p>
 
 ---
 
 <div style="text-align: center;">
   <h3><strong>CHAPTER I:</strong></h3>
-  <p>“A Declaration of the Rights of the Inhabitants of the State of Monroe.”</p>
+  <p>"A Declaration of the Rights of the Inhabitants of the State of Monroe."</p>
 </div>
 
 ---
@@ -32,7 +32,7 @@ nav_order: 2
 <hr style="width: 20%; height: 1px; background-color: white; border: none; margin: 0 auto;">
 
 <h3>ARTICLE III - Freedom of Speech</h3>
-<p>Every person may freely speak, write, and publish on all subjects, being responsible for the abuse of that right; and in all trials for libel, both civil and criminal, the truth, when published with good intent and justifiable ends, shall be a sufficient defense, the judiciary having the right to determine the facts and the law, under the direction of the court.</p>
+<p>Every person may freely speak, write, and publish on all subjects, being responsible for the abuse of that right and in all trials for libel, both civil and criminal, the truth, when published with good intent and justifiable ends, shall be a sufficient defense, the judiciary having the right to determine the facts and the law, under the direction of the court.</p>
 <hr style="width: 20%; height: 1px; background-color: white; border: none; margin: 0 auto;">
 
 <h3>ARTICLE IV - Security Against Search and Seizure</h3>
@@ -72,7 +72,7 @@ nav_order: 2
 <hr style="width: 20%; height: 1px; background-color: white; border: none; margin: 0 auto;">
 
 <h3>ARTICLE XIII - Extradition Rights</h3>
-<p>No resident of the State of Monroe may be extradited to another State or Nation unless a treaty has been signed clarifying the terms of such exchanges. On the basis of this: all residents enjoy safety from foreign incursions on their rights and liberties they are entitled to within the State.</p>
+<p>No resident of the State of Monroe may be extradited to another State or Nation unless a treaty has been signed clarifying the terms of such exchanges. On the basis of this all residents enjoy safety from foreign incursions on their rights and liberties they are entitled to within the State.</p>
 <hr style="width: 20%; height: 1px; background-color: white; border: none; margin: 0 auto;">
 
 <h3>ARTICLE XIV - Freedom of Movement</h3>
@@ -91,7 +91,7 @@ nav_order: 2
 
 <div style="text-align: center;">
   <h3><strong>CHAPTER II:</strong></h3>
-  <p>“A Plan for the Organization and Boundary of Government.”</p>
+  <p>"A Plan for the Organization and Boundary of Government."</p>
 </div>
 
 ---
@@ -102,7 +102,7 @@ nav_order: 2
 <hr style="width: 20%; height: 1px; background-color: white; border: none; margin: 0 auto;">
 
 <h3>SECTION II - On the Branches</h3>
-<p>The Executive branch shall be presided over by a Governor. The Legislative branch shall be made up of elected persons, who are presided over by the appointed Lieutenant Governor within the State Assembly. The Judicial Branch shall be presided over by the Chief Justice of the Supreme Court.</p>
+<p>The Executive branch shall be presided over by a Governor. The Legislative branch shall be made up of elected persons, who are presided over by the appointed Lieutenant Governor within the State Assembly. The Judicial Branch shall be presided over by the Chief Justice of the General Court of Monroe.</p>
 <hr style="width: 20%; height: 1px; background-color: white; border: none; margin: 0 auto;">
 
 <h3>SECTION III - On the Organization</h3>
@@ -110,7 +110,7 @@ nav_order: 2
 <hr style="width: 20%; height: 1px; background-color: white; border: none; margin: 0 auto;">
 
 <h3>SECTION IV - On the Governor</h3>
-<p>The Governor shall be the executive officer of the State, who is elected for a term of three years (90 days). The Governor presides over all executive matters of the State and is aided in those efforts by his cabinet. No person may be eligible for the office of Governor unless they are a citizen of this State, who has passed the age of majority, and who maintains a criminal record free from high crimes and felonies. The Governor may be impeached by the State Assembly should they be accused of high crimes or misconduct while in office, impeachment hearings being conducted within the Supreme Court of the State.</p>
+<p>The Governor shall be the executive officer of the State, who is elected for a term of three years (90 days). The Governor presides over all executive matters of the State and is aided in those efforts by his cabinet. No person may be eligible for the office of Governor unless they are a citizen of this State, who has passed the age of majority, and who maintains a criminal record free from high crimes and felonies. The Governor may be impeached by the State Assembly should they be accused of high crimes or misconduct while in office, impeachment hearings being conducted within the General Court of the State.</p>
 <hr style="width: 20%; height: 1px; background-color: white; border: none; margin: 0 auto;">
 
 <h3>SECTION V - Duties of the Governor</h3>
@@ -118,28 +118,11 @@ nav_order: 2
 <hr style="width: 20%; height: 1px; background-color: white; border: none; margin: 0 auto;">
 
 <h3>SECTION VI - Duties of the Lieutenant Governor</h3>
-<p>The Lieutenant Governor shall be an appointed person tasked with carrying out executive directives from the Governor, including the administration of government offices, acting as a liaison between the Governor’s Office and local representatives, and may in the Governor’s absence act in their stead. The Lieutenant Governor shall also preside over the State Assembly and may exercise a vote in order to break ties upon proposed legislation.</p>
+<p>The Lieutenant Governor shall be an appointed person tasked with carrying out executive directives from the Governor, including the administration of government offices, acting as a liaison between the Governor's Office and local representatives, and may in the Governor's absence act in their stead. The Lieutenant Governor shall also preside over the State Assembly and may exercise a vote in order to break ties upon proposed legislation.</p>
 <hr style="width: 20%; height: 1px; background-color: white; border: none; margin: 0 auto;">
 
 <h3>SECTION VII - Judicial Branch</h3>
-<p>The judicial power of the State of Monroe shall be vested in the General Court of Monroe, which shall be the highest legal authority within the state, presiding over all matters civil and criminal.</p>
-<ol>
-  <li><strong>Structure:</strong> The General Court of Monroe shall consist of appointed judges who shall serve until such time as they see fit to retire or are removed through proper judicial process.</li>
-  <li><strong>Jurisdiction:</strong> The General Court shall have jurisdiction over all regions within the State of Monroe, including the territories of Guarma and New Austin.</li>
-  <li><strong>Powers:</strong> Judges of the General Court shall have the authority to:
-    <ol type="a">
-      <li>Preside over trials and issue rulings</li>
-      <li>Determine sentences in accordance with the State of Monroe Penal Code</li>
-      <li>Issue warrants, writs, and other orders necessary to uphold the law</li>
-      <li>Exceed standard penalties outlined in the Penal Code when deemed appropriate</li>
-      <li>Review and overturn decisions made in prior trials on appeal</li>
-    </ol>
-  </li>
-  <li><strong>Judicial Independence:</strong> To protect the judiciary from political influences, judges shall be free from impeachment and may be appointed for lifetime terms.</li>
-  <li><strong>Chief Justice:</strong> From within the judiciary, a Chief Justice shall be appointed to oversee the staffing of the Courts and operations of its officers.</li>
-  <li><strong>Appeals:</strong> The General Court shall establish a Judicial Review Board to hear appeals, ensuring fairness and balance in the judicial process.</li>
-</ol>
-<p>This structure ensures the separation of powers and maintains the integrity of the judicial system within the State of Monroe.</p>
+<p>The Judicial power of the State shall be vested in the General Court of Monroe, which shall have jurisdiction in all matters civil and criminal. Its judges shall have the power to issue warrants, writs, and other orders of the Court necessary to uphold common law. From within the judiciary, a Chief Justice shall be appointed who shall oversee staffing of the Courts and operations of its officers. Members of the judiciary shall serve until such time as they see fit to retire or are removed through proper judicial process, in order to protect them from political influences.</p>
 <hr style="width: 20%; height: 1px; background-color: white; border: none; margin: 0 auto;">
 
 <h3>SECTION VIII - The Attorney General</h3>
@@ -164,68 +147,67 @@ nav_order: 2
 
 <h3>SECTION XIII - County and State Boundaries</h3>
 <p>The State of Monroe shall be divided into three counties and two territories, namely the County of Lemoyne, the County of New Hannover, the County of West Elizabeth, the New Austin Territory, and the Guarma Territory. The boundaries of these administrative divisions are clearly delineated in the map provided herein. These counties and territories collectively constitute the geographical and political structure of the State of Monroe, as established by this constitution.</p>
+
 <!-- Image -->
 <div class="image-container">
-  <img src="{{ '/assets/images/monroeterritory.png' | relative_url }}" alt="State of Monroe Map" class="expandable-image" title="Click to enlarge map">
+    <img src="assets/images/monroe-territory.png" alt="State of Monroe Map" class="expandable-image" title="Click to enlarge map">
 </div>
-
 <div class="overlay" id="imageOverlay">
-  <img src="{{ '/assets/images/monroeterritory.png' | relative_url }}" alt="State of Monroe Map" class="expanded-image" id="expandedImage">
+    <img src="assets/images/monroe-territory.png" alt="State of Monroe Map" class="expanded-image" id="expandedImage">
 </div>
 
 <style>
-.image-container {
-  text-align: center;
-}
-
-.expandable-image {
-  width: 300px;
-  cursor: pointer;
-}
-
-.overlay {
-  display: none;
-  position: fixed;
-  top: 0;
-  left: 0;
-  width: 100%;
-  height: 100%;
-  background-color: rgba(0, 0, 0, 0.9);
-  z-index: 1000;
-}
-
-.expanded-image {
-  max-width: 90%;
-  max-height: 90%;
-  position: absolute;
-  top: 50%;
-  left: 50%;
-  transform: translate(-50%, -50%);
-}
+    .image-container {
+        text-align: center;
+    }
+    .expandable-image {
+        width: 300px;
+        cursor: pointer;
+    }
+    .overlay {
+        display: none;
+        position: fixed;
+        top: 0;
+        left: 0;
+        width: 100%;
+        height: 100%;
+        background-color: rgba(0, 0, 0, 0.9);
+        z-index: 1000;
+    }
+    .expanded-image {
+        max-width: 90%;
+        max-height: 90%;
+        position: absolute;
+        top: 50%;
+        left: 50%;
+        transform: translate(-50%, -50%);
+    }
 </style>
 
 <script>
-document.addEventListener('DOMContentLoaded', function() {
-  var expandableImage = document.querySelector('.expandable-image');
-  var overlay = document.getElementById('imageOverlay');
-  var expandedImage = document.getElementById('expandedImage');
+document.addEventListener("DOMContentLoaded", function() {
+    var expandableImage = document.querySelector(".expandable-image");
+    var overlay = document.getElementById("imageOverlay");
+    var expandedImage = document.getElementById("expandedImage");
 
-  expandableImage.addEventListener('click', function() {
-    overlay.style.display = 'block';
-  });
+    expandableImage.addEventListener("click", function() {
+        overlay.style.display = "block";
+    });
 
-  overlay.addEventListener('click', function(e) {
-    if (e.target === overlay) {
-      overlay.style.display = 'none';
-    }
-  });
+    overlay.addEventListener("click", function(e) {
+        if (e.target === overlay) {
+            overlay.style.display = "none";
+        }
+    });
 });
 </script>
-<!-- Image -->
+</div>
 
 ---
 
 <div style="text-align: center;">
   <h3><strong>CHAPTER III:</strong></h3>
-  <p>“Amendments to the Constitution.”</p>
+  <p>"Amendments to the Constitution."</p>
 </div>
+
+---
