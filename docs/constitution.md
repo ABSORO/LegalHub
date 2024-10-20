@@ -3,7 +3,7 @@ title: "Constitution"
 layout: home
 nav_order: 2
 ---
-<h1 style="text-align:center;">State of Monroe Constitution</h1>
+<h1 style="text-align:center;"><strong>State of Monroe Constitution</strong></h1>
 
 ---
 
