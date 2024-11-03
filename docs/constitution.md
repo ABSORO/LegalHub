@@ -178,7 +178,7 @@ nav_order: 2
 </div>
 <!-- Image -->
 <div class="image-container">
-    <img src="assets/images/territorythumbnail.png" alt="State of Monroe Map" class="expandable-image" title="Click to enlarge map">
+    <img src="assets/images/territorythumb.png" alt="State of Monroe Map" class="expandable-image" title="Click to enlarge map">
 </div>
 <div class="overlay" id="imageOverlay">
     <img src="assets/images/monroeterritory.png" alt="State of Monroe Map" class="expanded-image" id="expandedImage">
