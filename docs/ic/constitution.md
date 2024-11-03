@@ -5,7 +5,7 @@ layout: home
 ---
 
 <div style="text-align: center;">
-    <img src="../../assets/images/DOJLOGO.png" alt="Logo of Monroe DOJ" style="width: 200px; height: 200px;">
+  <img src="../../assets/images/DOJLOGO.png" alt="Logo of Monroe DOJ" style="width: 200px; height: 200px;">
 </div>
 <h1 class="centered-text"><strong>State of Monroe Constitution</strong></h1>
 
