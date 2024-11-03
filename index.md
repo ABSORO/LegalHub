@@ -2,6 +2,8 @@
 title: "Home"
 layout: home
 nav_order: 1
+---
+
 <div style="text-align: center;">
   <h1><strong>Monroe Department of Justice</strong></h1>
   <img src="../assets/images/mmonroedoj.png" alt="Logo of Monroe Department of Justice" style="width: 150px; height: 150px;">
