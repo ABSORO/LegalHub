@@ -4,9 +4,6 @@ layout: home
 nav_order: 2
 ---
 
-<div class="centered-text">
-    <img src="../assets/images/DOJLOGO.png" alt="Logo of Monroe DOJ" style="width: 150px; height: 150px;">
-</div>
 <h1 class="centered-text"><strong>State of Monroe Constitution</strong></h1>
 
 ---
