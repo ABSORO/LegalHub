@@ -57,7 +57,7 @@ nav_order: 2
 <p>No person shall be compelled to testify against himself in any criminal case, nor shall any person be twice put in jeopardy for the same offense.</p>
 <hr style="width: 20%; height: 1px; background-color: white; border: none; margin: 0 auto;">
 
-<h3>ARTICLE VIII</h3>
+<h3>ARTICLE VIII</h4>
 <h4><strong>Right to Bear Arms</strong></h4>
 <p>The people have the right to bear and maintain arms for the defense of themselves, their property, their rights, their liberties, and the defense of the State.</p>
 <hr style="width: 20%; height: 1px; background-color: white; border: none; margin: 0 auto;">
@@ -176,12 +176,14 @@ nav_order: 2
 <h4><strong>County and State Boundaries</strong></h4>
 <p>The State of Monroe shall be divided into three counties and two territories, namely the County of Lemoyne, the County of New Hannover, the County of West Elizabeth, the New Austin Territory, and the Guarma Territory. The boundaries of these administrative divisions are clearly delineated in the map provided herein. These counties and territories collectively constitute the geographical and political structure of the State of Monroe, as established by this constitution.</p>
 </div>
-<!-- Image -->
+<!-- Thumbnail Image -->
 <div class="image-container">
-    <img src="assets/images/territorythumb.png" alt="Thumbnail of the State of Monroe Map" class="expandable-image" title="Click to enlarge map">
+    <img src="/assets/images/territorythumb.png" alt="Thumbnail of the State of Monroe Map" class="expandable-image" title="Click to enlarge map">
 </div>
+
+<!-- Expanded Image -->
 <div class="overlay" id="imageOverlay">
-    <img src="assets/images/monroeterritory.png" alt="Detailed map of the State of Monroe showing counties and territories" class="expanded-image" id="expandedImage">
+    <img src="/assets/images/monroeterritory.png" alt="Detailed map of the State of Monroe showing counties and territories" class="expanded-image" id="expandedImage">
 </div>
 
 <style>
