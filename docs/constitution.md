@@ -5,7 +5,7 @@ nav_order: 2
 ---
 
 <div class="centered-text">
-    <img src="/assets/images/DOJLOGO.png" alt="Logo of Monroe DOJ">
+    <img src="../assets/images/DOJLOGO.png" alt="Logo of Monroe DOJ">
 </div>
 <h1 class="centered-text"><strong>State of Monroe Constitution</strong></h1>
 
