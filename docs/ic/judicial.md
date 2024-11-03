@@ -4,18 +4,25 @@ parent: IC Documents
 layout: home
 ---
 
-# State of Monroe Judicial System
+<div style="text-align: center;">
+  <h1><strong>State of Monroe Judicial System</strong></h1>
+  <p><em>Judicial Rework</em></p>
+  <p><strong>Effective Anno Domini 1900<br>IC DOCUMENT</strong></p>
+</div>
 
-*Judicial Rework*
+---
 
-**Effective Anno Domini 1900  
-IC DOCUMENT**
-
-## Preamble
+<div style="text-align: center;">
+  <h2><strong>Preamble</strong></h2>
+</div>
 
 By the authority vested in the State of Monroe, this document sets forth the structure and processes of the judicial system. The court shall serve to uphold the rule of law, maintain peace, and ensure justice for all citizens. All judges, lawmen, and citizens of Monroe are expected to abide by the following ordinances, respecting the decisions of the court as final.
 
-## Article I: Structure of the Judiciary
+---
+
+<div style="text-align: center;">
+  <h2><strong>Article I: Structure of the Judiciary</strong></h2>
+</div>
 
 ### The General Court of Monroe
 
@@ -27,7 +34,11 @@ By the authority vested in the State of Monroe, this document sets forth the str
 - Judges shall serve the State of Monroe until such time as they see fit to retire, or are removed through proper judicial process.
 - These individuals hold the sole authority to issue legal judgments, including but not limited to warrants, writs, and sentences, as outlined by the laws of the state.
 
-## Article II: Duties and Powers of the Judiciary
+---
+
+<div style="text-align: center;">
+  <h2><strong>Article II: Duties and Powers of the Judiciary</strong></h2>
+</div>
 
 ### Judicial Authority
 
@@ -38,12 +49,20 @@ By the authority vested in the State of Monroe, this document sets forth the str
 
 - Lawmen—including marshals, deputies, and sheriffs—are hereby granted the authority to represent the State of Monroe as prosecutors in criminal trials when a prosecutor is not available, presenting evidence and arguing the case on behalf of the people.
 
-## Article III: Jurisdiction of the Court
+---
+
+<div style="text-align: center;">
+  <h2><strong>Article III: Jurisdiction of the Court</strong></h2>
+</div>
 
 - The General Court holds jurisdiction over all regions within the State of Monroe, including the territories of **Guarma and New Austin**.
 - In the case of appeals, the General Court retains the right to review and overturn decisions made in prior trials, where appropriate grounds for appeal exist.
 
-## Article IV: The Attorney General
+---
+
+<div style="text-align: center;">
+  <h2><strong>Article IV: The Attorney General</strong></h2>
+</div>
 
 The Attorney General shall act in the interests of the State in matters both criminal and civil. Their responsibilities include:
 
@@ -57,7 +76,11 @@ The Attorney General shall act in the interests of the State in matters both cri
 
 **In the absence of an appointed Attorney General**, the most senior judge of the General Court shall assume these responsibilities or delegate them as necessary.
 
-## Article V: Criminal Procedure
+---
+
+<div style="text-align: center;">
+  <h2><strong>Article V: Criminal Procedure</strong></h2>
+</div>
 
 ### Arrest Procedures
 
@@ -101,7 +124,11 @@ After fifteen (15) days in HUT status without trial, the following graduated rel
    - U.S. Marshals may assist in monitoring compliance
    - Any violation of conditions voids release status
 
-## Article VI: Civil Procedure
+---
+
+<div style="text-align: center;">
+  <h2><strong>Article VI: Civil Procedure</strong></h2>
+</div>
 
 ### Civil Case Procedures
 
@@ -121,7 +148,11 @@ After fifteen (15) days in HUT status without trial, the following graduated rel
    - Specific performance of contracts
    - Injunctive relief
 
-## Article VII: The Bail Process
+---
+
+<div style="text-align: center;">
+  <h2><strong>Article VII: The Bail Process</strong></h2>
+</div>
 
 ### Bail Eligibility
 
@@ -142,7 +173,11 @@ Bail amounts shall be set according to the following guidelines:
 
 The exact amount within these ranges shall be determined based on the circumstances of the case and at the discretion of the presiding authority.
 
-## Article VIII: Plea Bargaining
+---
+
+<div style="text-align: center;">
+  <h2><strong>Article VIII: Plea Bargaining</strong></h2>
+</div>
 
 1. **Timing and Process**
    - Plea bargains must be initiated within 72 hours after arrest
@@ -162,7 +197,11 @@ The exact amount within these ranges shall be determined based on the circumstan
    - Plea deals must serve the interests of justice
    - Victims' rights must be considered where applicable
 
-## Article IX: Warrants and Executions
+---
+
+<div style="text-align: center;">
+  <h2><strong>Article IX: Warrants and Executions</strong></h2>
+</div>
 
 ### Issuance of Warrants
 
@@ -183,7 +222,11 @@ The exact amount within these ranges shall be determined based on the circumstan
    - Must document execution results
    - Must return warrant to court with results
 
-## Article X: Sentencing and Appeals
+---
+
+<div style="text-align: center;">
+  <h2><strong>Article X: Sentencing and Appeals</strong></h2>
+</div>
 
 ### Sentencing Guidelines
 
@@ -213,7 +256,11 @@ The exact amount within these ranges shall be determined based on the circumstan
    - Excessive sentence
    - Misapplication of law
 
-## Article XI: Emergency Procedures
+---
+
+<div style="text-align: center;">
+  <h2><strong>Article XI: Emergency Procedures</strong></h2>
+</div>
 
 1. **Temporary Judicial Authority**
    - Senior judge may appoint temporary judges
@@ -233,7 +280,11 @@ The exact amount within these ranges shall be determined based on the circumstan
    - Mass arrests
    - Territory-wide emergencies
 
-## Definitions
+---
+
+<div style="text-align: center;">
+  <h2><strong>Definitions</strong></h2>
+</div>
 
 ### Criminal Procedure Terms
 
