@@ -5,7 +5,7 @@ nav_order: 1
 ---
 
 <div style="text-align: center;">
-  <img src="assets/images/monroedoj.png" alt="Logo of Monroe DOJ" style="width: 150px; height: 150px;">
+  <img src="/assets/images/dojlogo.png" alt="Logo of Monroe DOJ" style="width: 150px; height: 150px;">
   <h1><strong>Monroe Department of Justice</strong></h1>
   <p>An Unofficial Community Legal Resource Hub</p>
 </div>
