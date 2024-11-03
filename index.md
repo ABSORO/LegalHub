@@ -3,14 +3,11 @@ title: "Home"
 layout: home
 nav_order: 1
 ---
-
-
----
 <div style="text-align: center;">
   <h1><strong>Monroe Department of Justice</strong></h1>
+  <img src="monroedoj.png" alt="Monroe DOJ Logo" style="display: block; margin: 0 auto; width: 150px;">
   <p>An Unofficial Community Legal Resource Hub</p>
 </div>
----
 
 Welcome to the **Monroe Department of Justice**, your **unofficial** yet comprehensive resource for all legal matters related to **Ranch Roleplay**. This website is designed to house everything you need regarding legal processes, documents, and case laws in one place. Whether you're a lawman, lawyer, or civilian, our goal is to help you navigate the **Monroe legal system** seamlessly.
 
@@ -36,4 +33,3 @@ The primary purpose of this website is to provide **one centralized location** f
 Join our community on [Discord](https://discord.com/invite/Sc3Ur4Uxpp) for updates, discussions, and additional resources related to Ranch Roleplay legal matters.
 
 ---
-
