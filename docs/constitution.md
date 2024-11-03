@@ -3,7 +3,7 @@ title: "Constitution"
 layout: home
 nav_order: 2
 ---
-<h1 style="text-align:center;"><strong>State of Monroe Constitution</strong></h1>
+<h1 class="centered-text"><strong>State of Monroe Constitution</strong></h1>
 
 ---
 
@@ -178,15 +178,18 @@ nav_order: 2
 </div>
 <!-- Thumbnail Image -->
 <div class="image-container">
-    <img src="/assets/images/territorythumb.png" alt="Thumbnail of the State of Monroe Map" class="expandable-image" title="Click to enlarge map">
+    <img src="../assets/images/territorythumb.png" alt="Thumbnail of the State of Monroe Map" class="expandable-image" title="Click to enlarge map">
 </div>
 
 <!-- Expanded Image -->
 <div class="overlay" id="imageOverlay">
-    <img src="/assets/images/monroeterritory.png" alt="Detailed map of the State of Monroe showing counties and territories" class="expanded-image" id="expandedImage">
+    <img src="../assets/images/monroeterritory.png" alt="Detailed map of the State of Monroe showing counties and territories" class="expanded-image" id="expandedImage">
 </div>
 
 <style>
+    .centered-text {
+        text-align: center;
+    }
     .image-container {
         text-align: center;
     }
