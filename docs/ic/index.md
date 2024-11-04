@@ -1,6 +1,5 @@
 ---
 title: IC Documents
-has_children: true
 layout: home
 nav_order: 2
 ---
