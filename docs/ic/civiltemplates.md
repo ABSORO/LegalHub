@@ -6,12 +6,13 @@ layout: home
 
 <div style="text-align: center;">
   <img src="../../assets/images/DOJLOGO.png" alt="Logo of Monroe DOJ" style="width: 200px; height: 200px;">
-</div>
+
 <div style="text-align: center;">
 
-# State of Monroe Civil Case Templates
+State of Monroe Civil Case Templates {: .fs-9 }
 
 </div>
+
 
 ---
 
