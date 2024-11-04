@@ -2,7 +2,7 @@
 title: "Constitution"
 parent: "IC Documents"
 layout: default
-nav_order: 2
+nav_order: 1
 ---
 
 <div style="text-align: center;">
