@@ -2,7 +2,7 @@
 title: "Penal Code"
 parent: "IC Documents"
 layout: default
-nav_order: 5
+nav_order: 4
 ---
 
 <div style="text-align: center;">

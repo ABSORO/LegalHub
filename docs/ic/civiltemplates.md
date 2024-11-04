@@ -2,7 +2,7 @@
 title: "Civil Templates"
 parent: "IC Documents"
 layout: default
-nav_order: 6
+nav_order: 5
 ---
 
 <div style="text-align: center;">
