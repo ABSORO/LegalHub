@@ -2,6 +2,7 @@
 title: "Penal Code"
 parent: IC Documents
 layout: home
+nav_order: 3
 ---
 
 <div style="text-align: center;">

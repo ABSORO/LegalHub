@@ -1,7 +1,8 @@
 ---
-title: "Civil Case Templates"
+title: "Civil Templates"
 parent: IC Documents
 layout: home
+nav_order: 5
 ---
 
 <div style="text-align: center;">

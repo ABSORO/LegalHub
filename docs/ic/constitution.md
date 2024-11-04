@@ -2,6 +2,7 @@
 title: "Constitution"
 parent: IC Documents
 layout: home
+nav_order: 1
 ---
 
 <div style="text-align: center;">
@@ -61,7 +62,7 @@ layout: home
 <p>No person shall be compelled to testify against himself in any criminal case, nor shall any person be twice put in jeopardy for the same offense.</p>
 <hr style="width: 20%; height: 1px; background-color: white; border: none; margin: 0 auto;">
 
-<h3>ARTICLE VIII</h3>
+<h3>ARTICLE VIII</h4>
 <h4><strong>Right to Bear Arms</strong></h4>
 <p>The people have the right to bear and maintain arms for the defense of themselves, their property, their rights, their liberties, and the defense of the State.</p>
 <hr style="width: 20%; height: 1px; background-color: white; border: none; margin: 0 auto;">
@@ -238,7 +239,6 @@ document.addEventListener("DOMContentLoaded", function() {
     });
 });
 </script>
-
 
 ---
 

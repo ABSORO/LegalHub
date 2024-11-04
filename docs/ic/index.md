@@ -20,6 +20,3 @@ nav_order: 2
 - [Prosecutor's Guidelines](prosecution.md) - Guide for state prosecutors
 - [Civil Templates](civiltemplates.md) - Standard forms and procedures
 
-## Quick Links
-- [Search Documents](../search.html)
-- [Report Issues](https://github.com/YourRepo/issues)
