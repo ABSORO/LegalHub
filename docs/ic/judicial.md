@@ -2,7 +2,7 @@
 title: "Judicial System"
 parent: IC Documents
 layout: home
-nav_order: 2
+nav_order: 4
 ---
 
 <div style="text-align: center;">
