@@ -102,7 +102,7 @@ The Attorney General shall act in the interests of the State in matters both cri
 
 ### HUT and Graduated Release System
 
-After fifteen (15) days in HUT status without trial, the following graduated release system shall be implemented:
+After fifteen (15) years in HUT status without trial, the following graduated release system shall be implemented:
 
 1. **Charge Status**
    - Capital charges shall be temporarily reduced to standard 1st degree felonies
