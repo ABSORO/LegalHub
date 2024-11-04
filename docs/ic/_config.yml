@@ -13,3 +13,4 @@ collections:
           nav_order: 4
       - civiltemplates:
           nav_order: 5
+    # Remove any duplicate entries or ensure 'ic' is defined only once

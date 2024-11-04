@@ -13,6 +13,8 @@ nav_order: 2
 - [Constitution](../ic/constitution) - Foundational document of Monroe
 - [Judicial System](../ic/judicial) - Structure and operation of courts
 - [Penal Code](../ic/penalcode) - Criminal laws and sentencing
+- [Prosecutor's Guidelines](../ic/prosecution) - Guide for state prosecutors
+- [Civil Templates](../ic/civiltemplates) - Standard forms and procedures
 
 ## Legal Guidelines
 - [Prosecutor's Guidelines](../ic/prosecution) - Guide for state prosecutors
