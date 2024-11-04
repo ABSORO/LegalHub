@@ -52,7 +52,7 @@ nav_order: 1
 <p>The right of petition, and of the people peaceably to assemble to consult for the common good, and to make known their opinions, shall never be denied or abridged.</p>
 <hr style="width: 20%; height: 1px; background-color: white; border: none; margin: 0 auto;">
 
-<h3>ARTICLE VI</h4>
+<h3>ARTICLE VI</h3>
 <h4><strong>Due Process</strong></h4>
 <p>No person shall be deprived of life, liberty, or property without due process of law.</p>
 <hr style="width: 20%; height: 1px; background-color: white; border: none; margin: 0 auto;">
@@ -62,7 +62,7 @@ nav_order: 1
 <p>No person shall be compelled to testify against himself in any criminal case, nor shall any person be twice put in jeopardy for the same offense.</p>
 <hr style="width: 20%; height: 1px; background-color: white; border: none; margin: 0 auto;">
 
-<h3>ARTICLE VIII</h4>
+<h3>ARTICLE VIII</h3>
 <h4><strong>Right to Bear Arms</strong></h4>
 <p>The people have the right to bear and maintain arms for the defense of themselves, their property, their rights, their liberties, and the defense of the State.</p>
 <hr style="width: 20%; height: 1px; background-color: white; border: none; margin: 0 auto;">
@@ -122,7 +122,7 @@ nav_order: 1
 <p>The powers of the government of this state shall be divided into three distinct branches: The legislative, executive, and judicial, and no person or collection of persons charged with the exercise of powers belonging to one of these branches shall exercise any powers belonging to either of the others, except as in this constitution expressly directed or permitted.</p>
 <hr style="width: 20%; height: 1px; background-color: white; border: none; margin: 0 auto;">
 
-<h3>SECTION II</h4>
+<h3>SECTION II</h3>
 <h4><strong>On the Branches</strong></h4>
 <p>The Executive branch shall be presided over by a Governor. The Legislative branch shall be made up of elected persons, who are presided over by the appointed Lieutenant Governor within the State Assembly. The Judicial Branch shall be presided over by the Chief Justice of the General Court of Monroe.</p>
 <hr style="width: 20%; height: 1px; background-color: white; border: none; margin: 0 auto;">
@@ -132,12 +132,12 @@ nav_order: 1
 <p>The Executive branch consists of all the Departments of State. The Legislative branch consists of all the State Assemblies. The Judicial branch consists of all courts within the State.</p>
 <hr style="width: 20%; height: 1px; background-color: white; border: none; margin: 0 auto;">
 
-<h3>SECTION IV</h4>
+<h3>SECTION IV</h3>
 <h4><strong>On the Governor</strong></h4>
 <p>The Governor shall be the executive officer of the State, who is elected for a term of three years (90 days). The Governor presides over all executive matters of the State and is aided in those efforts by his cabinet. No person may be eligible for the office of Governor unless they are a citizen of this State, who has passed the age of majority, and who maintains a criminal record free from high crimes and felonies. The Governor may be impeached by the State Assembly should they be accused of high crimes or misconduct while in office, impeachment hearings being conducted within the General Court of the State.</p>
 <hr style="width: 20%; height: 1px; background-color: white; border: none; margin: 0 auto;">
 
-<h3>SECTION V</h4>
+<h3>SECTION V</h3>
 <h4><strong>Duties of the Governor</strong></h4>
 <p>The Governor shall be responsible for signing bills into law presented by the State Assembly, overseeing enforcement of law within the State, maintaining a cabinet of appointed officials, and acting as the Commander-in-Chief of the State Militia. The Governor may also grant pardons, commute sentences, and reprieve for incarcerated or condemned individuals.</p>
 <hr style="width: 20%; height: 1px; background-color: white; border: none; margin: 0 auto;">
@@ -246,4 +246,3 @@ document.addEventListener("DOMContentLoaded", function() {
   <p>No amendments have been added.</p>
 </div>
 
----
