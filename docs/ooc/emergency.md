@@ -3,7 +3,7 @@ title: "Emergency Judicial Protocols"
 parent: "OOC Documentation"
 nav_exclude: false
 layout: default
-nav_order: 1
+nav_order: 2
 ---
 
 <div align="center">

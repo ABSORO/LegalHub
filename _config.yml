@@ -6,6 +6,12 @@ color_scheme: dark
 # Correcting the URL to use a single entry
 url: https://ABSORO.github.io/LegalHub
 
+collections:
+  docs:
+    output: true
+    permalink: /:path/
+    nav_exclude: false
+
 aux_links:
   Community Discord: https://discord.com/invite/Sc3Ur4Uxpp
 
