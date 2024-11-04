@@ -137,7 +137,7 @@ nav_order: 1
 <p>The Governor shall be the executive officer of the State, who is elected for a term of three years (90 days). The Governor presides over all executive matters of the State and is aided in those efforts by his cabinet. No person may be eligible for the office of Governor unless they are a citizen of this State, who has passed the age of majority, and who maintains a criminal record free from high crimes and felonies. The Governor may be impeached by the State Assembly should they be accused of high crimes or misconduct while in office, impeachment hearings being conducted within the General Court of the State.</p>
 <hr style="width: 20%; height: 1px; background-color: white; border: none; margin: 0 auto;">
 
-<h3>SECTION V</h3>
+<h3>SECTION V</h4>
 <h4><strong>Duties of the Governor</strong></h4>
 <p>The Governor shall be responsible for signing bills into law presented by the State Assembly, overseeing enforcement of law within the State, maintaining a cabinet of appointed officials, and acting as the Commander-in-Chief of the State Militia. The Governor may also grant pardons, commute sentences, and reprieve for incarcerated or condemned individuals.</p>
 <hr style="width: 20%; height: 1px; background-color: white; border: none; margin: 0 auto;">
