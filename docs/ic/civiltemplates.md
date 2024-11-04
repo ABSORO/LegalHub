@@ -4,14 +4,10 @@ parent: IC Documents
 layout: home
 ---
 
+<div style="text-align: center;">
+  <img src="../../assets/images/DOJLOGO.png" alt="Logo of Monroe DOJ" style="width: 200px; height: 200px;">
+</div>
 # State of Monroe Civil Case Templates
-(*Discord-Friendly Format*)
-
-## How to Use These Templates
-1. Copy the template you need
-2. Fill in your information where you see [brackets]
-3. Remove any sections that don't apply
-4. Submit in appropriate Discord channel
 
 ---
 
@@ -185,4 +181,4 @@ Date: [Date]
 
 ---
 
-**Note:** Use `───────────────────────────────────` for dividing lines (looks cleaner in Discord)
+**Note:** Use `───────────────────────────────────` for dividing lines
