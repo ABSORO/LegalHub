@@ -5,10 +5,9 @@ layout: home
 nav_order: 2
 ---
 
-# State of Monroe Documents
-
 <div style="text-align: center;">
   <img src="../../assets/images/DOJLOGO.png" alt="Logo of Monroe DOJ" style="width: 200px; height: 200px;">
+  <h1><strong>State of Monroe Documents</strong></h1>
 </div>
 
 ## Core Documents
