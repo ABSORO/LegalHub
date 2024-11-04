@@ -1,0 +1,15 @@
+collections:
+  ic:
+    name: IC Documents
+    nav_order: 2
+    child_pages:
+      - constitution:
+          nav_order: 1
+      - judicial:
+          nav_order: 2
+      - penalcode:
+          nav_order: 3
+      - prosecution:
+          nav_order: 4
+      - civiltemplates:
+          nav_order: 5
