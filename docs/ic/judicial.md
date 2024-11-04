@@ -12,10 +12,8 @@ layout: home
 ---
 
 <div style="text-align: center;">
-  <h2><strong>Preamble</strong></h2>
-</div>
-
 By the authority vested in the State of Monroe, this document sets forth the structure and processes of the judicial system. The court shall serve to uphold the rule of law, maintain peace, and ensure justice for all citizens. All judges, lawmen, and citizens of Monroe are expected to abide by the following ordinances, respecting the decisions of the court as final.
+</div>
 
 ---
 

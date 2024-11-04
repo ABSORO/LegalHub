@@ -12,10 +12,8 @@ layout: home
 ---
 
 <div style="text-align: center;">
-  <h2><strong>Preamble</strong></h2>
-</div>
-
 These guidelines are established to assist prosecutors or lawmen of the State of Monroe in their duties as prosecutors when representing the State in criminal proceedings. This document shall serve as a practical guide for the preparation and presentation of cases before the General Court.
+</div>
 
 ---
 
