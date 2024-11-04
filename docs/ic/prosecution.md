@@ -1,7 +1,7 @@
 ---
 title: "Prosecutor's Guidelines"
-parent: IC Documents
-layout: home
+parent: "IC Documents"
+layout: default
 nav_order: 4
 ---
 

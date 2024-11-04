@@ -1,8 +1,8 @@
 ---
 title: "Penal Code"
-parent: IC Documents
-layout: home
-nav_order: 4
+parent: "IC Documents"
+layout: default
+nav_order: 3
 ---
 
 <div style="text-align: center;">

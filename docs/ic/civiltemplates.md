@@ -1,7 +1,7 @@
 ---
 title: "Civil Templates"
-parent: IC Documents
-layout: home
+parent: "IC Documents"
+layout: default
 nav_order: 5
 ---
 

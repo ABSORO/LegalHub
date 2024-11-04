@@ -1,8 +1,8 @@
 ---
 title: "Constitution"
-parent: IC Documents
-layout: home
-nav_order: 4
+parent: "IC Documents"
+layout: default
+nav_order: 1
 ---
 
 <div style="text-align: center;">
