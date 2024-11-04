@@ -1,5 +1,5 @@
 ---
 title: "Test 2"
-parent: OOC Documents
-layout: home
+parent: "OOC Documents"
+layout: default
 ---
